@@ -81,55 +81,55 @@
       }],
       "otherContent": [
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-1.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-1.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-2.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-2.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-3.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-3.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-4.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-4.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-5.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-5.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-6.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-6.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-7.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-7.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-8.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-8.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-9.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-9.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-10.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-10.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-11.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-11.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-12.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-12.json",
           "@type":"sc:AnnotationList"
         },
         {
-          "@id":"annotations/annotation-articles/page1/annotation-article-13.json",
+          "@id":"http://taixiaoyu.com/mirador-static/annotations/annotation-articles/page1/annotation-article-13.json",
           "@type":"sc:AnnotationList"
         }
       ]
